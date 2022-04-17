@@ -1,6 +1,6 @@
 # Horiseon Main Page
 
-# Updating to make the site accessible and therefore optimize it's search engine presence. -CRH 04/17/2022
+# Updating to make the site accessible and therefore optimizing it's search engine presence. -CRH 04/17/2022
 
 
 ## updates to html
